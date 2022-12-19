@@ -3,4 +3,4 @@ Covid - 19 Spread Analysis
 
 
 
-https://public.tablrau.com/app/profile/shalaka.suhas.patil
+https://public.tableau.com/app/profile/shalaka.suhas.patil
